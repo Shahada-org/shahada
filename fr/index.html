@@ -94,6 +94,13 @@
         gtag('js', new Date());
         gtag('config', 'G-K5PYVR85PX');
     </script>
+
+    <!-- Vercel Speed Insights -->
+    <script type="module">
+        import { injectSpeedInsights } from 'https://cdn.jsdelivr.net/npm/@vercel/speed-insights@1/dist/index.mjs';
+        injectSpeedInsights();
+    </script>
+    
     
     <style>
         *{margin:0;padding:0;box-sizing:border-box}
@@ -137,7 +144,6 @@
             }
         ]
     }
-    </script>
     
     <!-- Structured Data: HowTo Schema (French) -->
     <script type="application/ld+json">
@@ -164,7 +170,6 @@
             }
         ]
     }
-    </script>
 </head>
 <body>
     <a href="#main" class="skip-link">Aller au contenu principal</a>
