@@ -1,0 +1,33 @@
+{
+  "name": "shahada",
+  "version": "1.0.0",
+  "description": "The world's simplest guide to embracing Islam. Available in 40+ languages.",
+  "main": "script.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahada-org/shahada.git"
+  },
+  "keywords": [
+    "shahada",
+    "islam",
+    "muslim",
+    "conversion",
+    "multilingual"
+  ],
+  "author": "Shahada.org",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/Shahada-org/shahada/issues"
+  },
+  "homepage": "https://shahada.org",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
