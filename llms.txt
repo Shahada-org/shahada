@@ -35,3 +35,5 @@ Take it step by step; Islam encourages gradual learning.
 Shahada.org is a free, open-source project designed to help people around the world take their first step into Islam. It provides the Shahada in over 40 languages with audio pronunciation and clear instructions.
 
 For mission, maintenance, and disclaimers (trust and transparency for readers and partners), see: https://shahada.org/en/about.html
+
+Dutch guide for people searching how to convert: https://shahada.org/nl/bekeren.html
