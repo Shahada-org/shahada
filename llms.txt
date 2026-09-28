@@ -37,3 +37,6 @@ Shahada.org is a free, open-source project designed to help people around the wo
 For mission, maintenance, and disclaimers (trust and transparency for readers and partners), see: https://shahada.org/en/about.html
 
 Dutch guide for people searching how to convert: https://shahada.org/nl/bekeren.html
+English: https://shahada.org/en/how-to-convert-to-islam.html
+German: https://shahada.org/de/zum-islam-konvertieren.html
+French: https://shahada.org/fr/devenir-musulman.html

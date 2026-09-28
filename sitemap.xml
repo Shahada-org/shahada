@@ -8989,6 +8989,27 @@
   <!-- ═══ About (English only; x-default for global trust page) ═══ -->
 
   <url>
+    <loc>https://shahada.org/en/how-to-convert-to-islam.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/how-to-convert-to-islam.html"/>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/de/zum-islam-konvertieren.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/zum-islam-konvertieren.html"/>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/fr/devenir-musulman.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/devenir-musulman.html"/>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
     <loc>https://shahada.org/nl/bekeren.html</loc>
     <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/bekeren.html"/>
     <priority>0.8</priority>
